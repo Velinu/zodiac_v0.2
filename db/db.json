@@ -1,0 +1,76 @@
+{
+    "signos": [
+      {
+        "id": 1,
+        "nome": "Áries",
+        "imagem": "https://exemplo.com/aries.jpg",
+        "datas_de_nasc": "21 de março - 19 de abril"
+    },
+    {
+        "id": 2,
+        "nome": "Touro",
+        "imagem": "https://exemplo.com/touro.jpg",
+        "datas_de_nasc": "20 de abril - 20 de maio"
+      },
+      {
+        "id": 3,
+        "nome": "Gêmeos",
+        "imagem": "https://exemplo.com/gemeos.jpg",
+        "datas_de_nasc": "21 de maio - 20 de junho"
+      },
+      {
+        "id": 4,
+        "nome": "Câncer",
+        "imagem": "https://exemplo.com/cancer.jpg",
+        "datas_de_nasc": "21 de junho - 22 de julho"
+      },
+      {
+        "id": 5,
+        "nome": "Leão",
+        "imagem": "https://exemplo.com/leao.jpg",
+        "datas_de_nasc": "23 de julho - 22 de agosto"
+      },
+      {
+        "id": 6,
+        "nome": "Virgem",
+        "imagem": "https://exemplo.com/virgem.jpg",
+        "datas_de_nasc": "23 de agosto - 22 de setembro"
+      },
+      {
+        "id": 7,
+        "nome": "Libra",
+        "imagem": "https://exemplo.com/libra.jpg",
+        "datas_de_nasc": "23 de setembro - 22 de outubro"
+      },
+      {
+        "id": 8,
+        "nome": "Escorpião",
+        "imagem": "https://exemplo.com/escorpiao.jpg",
+        "datas_de_nasc": "23 de outubro - 21 de novembro"
+      },
+      {
+        "id": 9,
+        "nome": "Sagitário",
+        "imagem": "https://exemplo.com/sagitario.jpg",
+        "datas_de_nasc": "22 de novembro - 21 de dezembro"
+      },
+      {
+        "id": 10,
+        "nome": "Capricórnio",
+        "imagem": "https://exemplo.com/capricornio.jpg",
+        "datas_de_nasc": "22 de dezembro - 19 de janeiro"
+      },
+      {
+        "id": 11,
+        "nome": "Aquário",
+        "imagem": "https://exemplo.com/aquario.jpg",
+        "datas_de_nasc": "20 de janeiro - 18 de fevereiro"
+      },
+      {
+        "id": 12,
+        "nome": "Peixes",
+        "imagem": "https://exemplo.com/peixes.jpg",
+        "datas_de_nasc": "19 de fevereiro - 20 de março"
+      }
+    ]
+  }

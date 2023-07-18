@@ -32,7 +32,7 @@
 
     #title{
         user-select: none;
-        margin-right:53vw;
+        margin-right:50vw;
         font-size: 1.2em;
         display: flex;
         align-items: center;
@@ -58,6 +58,8 @@
         text-shadow: rgb(252, 252, 252) 1px 0px 5px;
         cursor: pointer;
         position: relative;
+        
+        letter-spacing: 0.5px;
     }
 
     .nav-buttom::after{
