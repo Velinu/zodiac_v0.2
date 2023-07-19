@@ -1,76 +1,88 @@
 {
-    "signos": [
-      {
-        "id": 1,
-        "nome": "Áries",
-        "imagem": "https://exemplo.com/aries.jpg",
-        "datas_de_nasc": "21 de março - 19 de abril"
+  "signos": [
+    {
+      "id": 1,
+      "nome": "Áries",
+      "imagem": "https://exemplo.com/aries.jpg",
+      "datas_de_nascimento": "21 de março - 19 de abril",
+      "descricao": "Áries é o primeiro signo do zodíaco, representando coragem, energia e determinação. Pessoas de Áries são frequentemente líderes natos e têm um espírito competitivo."
     },
     {
-        "id": 2,
-        "nome": "Touro",
-        "imagem": "https://exemplo.com/touro.jpg",
-        "datas_de_nasc": "20 de abril - 20 de maio"
-      },
-      {
-        "id": 3,
-        "nome": "Gêmeos",
-        "imagem": "https://exemplo.com/gemeos.jpg",
-        "datas_de_nasc": "21 de maio - 20 de junho"
-      },
-      {
-        "id": 4,
-        "nome": "Câncer",
-        "imagem": "https://exemplo.com/cancer.jpg",
-        "datas_de_nasc": "21 de junho - 22 de julho"
-      },
-      {
-        "id": 5,
-        "nome": "Leão",
-        "imagem": "https://exemplo.com/leao.jpg",
-        "datas_de_nasc": "23 de julho - 22 de agosto"
-      },
-      {
-        "id": 6,
-        "nome": "Virgem",
-        "imagem": "https://exemplo.com/virgem.jpg",
-        "datas_de_nasc": "23 de agosto - 22 de setembro"
-      },
-      {
-        "id": 7,
-        "nome": "Libra",
-        "imagem": "https://exemplo.com/libra.jpg",
-        "datas_de_nasc": "23 de setembro - 22 de outubro"
-      },
-      {
-        "id": 8,
-        "nome": "Escorpião",
-        "imagem": "https://exemplo.com/escorpiao.jpg",
-        "datas_de_nasc": "23 de outubro - 21 de novembro"
-      },
-      {
-        "id": 9,
-        "nome": "Sagitário",
-        "imagem": "https://exemplo.com/sagitario.jpg",
-        "datas_de_nasc": "22 de novembro - 21 de dezembro"
-      },
-      {
-        "id": 10,
-        "nome": "Capricórnio",
-        "imagem": "https://exemplo.com/capricornio.jpg",
-        "datas_de_nasc": "22 de dezembro - 19 de janeiro"
-      },
-      {
-        "id": 11,
-        "nome": "Aquário",
-        "imagem": "https://exemplo.com/aquario.jpg",
-        "datas_de_nasc": "20 de janeiro - 18 de fevereiro"
-      },
-      {
-        "id": 12,
-        "nome": "Peixes",
-        "imagem": "https://exemplo.com/peixes.jpg",
-        "datas_de_nasc": "19 de fevereiro - 20 de março"
-      }
-    ]
-  }
+      "id": 2,
+      "nome": "Touro",
+      "imagem": "https://exemplo.com/touro.jpg",
+      "datas_de_nascimento": "20 de abril - 20 de maio",
+      "descricao": "Touro é um signo estável e confiável, simbolizando paciência, persistência e sensualidade. Pessoas de Touro são conhecidas por sua lealdade e apreço pela beleza e conforto."
+    },
+    {
+      "id": 3,
+      "nome": "Gêmeos",
+      "imagem": "https://exemplo.com/gemeos.jpg",
+      "datas_de_nascimento": "21 de maio - 20 de junho",
+      "descricao": "Gêmeos é um signo versátil e comunicativo, representando curiosidade, inteligência e adaptabilidade. Pessoas de Gêmeos são sociáveis e adoram aprender e compartilhar conhecimento."
+    },
+    {
+      "id": 4,
+      "nome": "Câncer",
+      "imagem": "https://exemplo.com/cancer.jpg",
+      "datas_de_nascimento": "21 de junho - 22 de julho",
+      "descricao": "Câncer é um signo emocional e protetor, simbolizando intuição, sensibilidade e cuidado. Pessoas de Câncer são profundamente ligadas à família e têm um forte senso de empatia."
+    },
+    {
+      "id": 5,
+      "nome": "Leão",
+      "imagem": "https://exemplo.com/leao.jpg",
+      "datas_de_nascimento": "23 de julho - 22 de agosto",
+      "descricao": "Leão é um signo majestoso e carismático, representando autoconfiança, liderança e generosidade. Pessoas de Leão têm uma presença cativante e são conhecidas por sua paixão e criatividade."
+    },
+    {
+      "id": 6,
+      "nome": "Virgem",
+      "imagem": "https://exemplo.com/virgem.jpg",
+      "datas_de_nascimento": "23 de agosto - 22 de setembro",
+      "descricao": "Virgem é um signo prático e analítico, simbolizando organização, eficiência e atenção aos detalhes. Pessoas de Virgem são metódicas, perfeccionistas e têm um forte senso de dever."
+    },
+    {
+      "id": 7,
+      "nome": "Libra",
+      "imagem": "https://exemplo.com/libra.jpg",
+      "datas_de_nascimento": "23 de setembro - 22 de outubro",
+      "descricao": "Libra é um signo equilibrado e harmonioso, representando justiça, diplomacia e beleza. Pessoas de Libra buscam a paz e a harmonia em seus relacionamentos e valorizam a estética."
+    },
+    {
+      "id": 8,
+      "nome": "Escorpião",
+      "imagem": "https://exemplo.com/escorpiao.jpg",
+      "datas_de_nascimento": "23 de outubro - 21 de novembro",
+      "descricao": "Escorpião é um signo intenso e determinado, simbolizando paixão, mistério e transformação. Pessoas de Escorpião são corajosas, magnéticas e têm uma natureza profundamente emocional."
+    },
+    {
+      "id": 9,
+      "nome": "Sagitário",
+      "imagem": "https://exemplo.com/sagitario.jpg",
+      "datas_de_nascimento": "22 de novembro - 21 de dezembro",
+      "descricao": "Sagitário é um signo aventureiro e otimista, representando liberdade, expansão e filosofia. Pessoas de Sagitário são curiosas, extrovertidas e têm um espírito alegre e jovial."
+    },
+    {
+      "id": 10,
+      "nome": "Capricórnio",
+      "imagem": "https://exemplo.com/capricornio.jpg",
+      "datas_de_nascimento": "22 de dezembro - 19 de janeiro",
+      "descricao": "Capricórnio é um signo ambicioso e determinado, simbolizando disciplina, responsabilidade e ambição. Pessoas de Capricórnio são trabalhadoras, práticas e têm uma forte ética de trabalho."
+    },
+    {
+      "id": 11,
+      "nome": "Aquário",
+      "imagem": "https://exemplo.com/aquario.jpg",
+      "datas_de_nascimento": "20 de janeiro - 18 de fevereiro",
+      "descricao": "Aquário é um signo progressista e visionário, representando originalidade, independência e idealismo. Pessoas de Aquário são altruístas, pensadoras avançadas e têm uma mentalidade humanitária."
+    },
+    {
+      "id": 12,
+      "nome": "Peixes",
+      "imagem": "https://exemplo.com/peixes.jpg",
+      "datas_de_nascimento": "19 de fevereiro - 20 de março",
+      "descricao": "Peixes é um signo sensível e intuitivo, simbolizando compaixão, empatia e espiritualidade. Pessoas de Peixes são criativas, sonhadoras e têm uma conexão profunda com o mundo emocional."
+    }
+  ]
+}

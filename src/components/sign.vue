@@ -8,15 +8,14 @@
     export default {
         name: "signsComp",
         props: {
-            id: Number,
-            name: String,
-            img: String,
-            date: String
+            id: null,
+            name: null,
+            img: null,
+            date: null,
+            description: null
         },
         methods: {
-            async getInfo() {
-                const req = await fetch("")
-            }
+            
         }
     }
 

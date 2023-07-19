@@ -2,7 +2,10 @@
   <navBar />
   <mainBanner />
   
-  <signsComp name=""/>
+  <bannerSigns />
+  <div v-for="sign in signs" :key="sign.id">
+    <signsComp :name="sign.nome" />
+  </div>
 </template>
 
 <script lang="ts">
@@ -10,19 +13,25 @@ import { defineComponent } from 'vue';
 import navBar from './components/navBar.vue'
 import mainBanner from './components/banner.vue'
 import signsComp from './components/sign.vue'
+import bannerSigns from './components/bannerSigns.vue'
 export default defineComponent({
   name: 'App',
   components: {
     navBar,
     mainBanner,
-    signsComp
+    signsComp,
+    bannerSigns
+  },
+  data() {
+    return{
+      signs: null
+    }
   },
   methods: {
     async getSignInfo(){
       const req = await fetch("http://localhost:3000/signos");
       const data = await req.json();
-
-      console.log(data)
+      this.signs = data
     }
   },
   mounted() {
