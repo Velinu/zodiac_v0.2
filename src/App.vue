@@ -4,7 +4,11 @@
   
   <bannerSigns />
   <div v-for="sign in signs" :key="sign.id">
-    <signsComp :name="sign.nome" />
+    <signsComp 
+    :name="sign.nome" 
+    :description="sign.descricao" 
+    :date="sign.datas_de_nascimento"
+    :img="sign.imagem"/>
   </div>
 </template>
 

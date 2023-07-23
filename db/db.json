@@ -3,42 +3,42 @@
     {
       "id": 1,
       "nome": "Áries",
-      "imagem": "https://exemplo.com/aries.jpg",
+      "imagem": "https://www.viastral.com.br/uploads/userfiles/image/signos/A%CC%81riesSi%CC%81mbolo.png",
       "datas_de_nascimento": "21 de março - 19 de abril",
       "descricao": "Áries é o primeiro signo do zodíaco, representando coragem, energia e determinação. Pessoas de Áries são frequentemente líderes natos e têm um espírito competitivo."
     },
     {
       "id": 2,
       "nome": "Touro",
-      "imagem": "https://exemplo.com/touro.jpg",
+      "imagem": "https://o.remove.bg/downloads/07ed377c-c5d9-454b-a023-511d67ecdf97/imagem_2023-07-21_111421575-removebg-preview.png",
       "datas_de_nascimento": "20 de abril - 20 de maio",
       "descricao": "Touro é um signo estável e confiável, simbolizando paciência, persistência e sensualidade. Pessoas de Touro são conhecidas por sua lealdade e apreço pela beleza e conforto."
     },
     {
       "id": 3,
       "nome": "Gêmeos",
-      "imagem": "https://exemplo.com/gemeos.jpg",
+      "imagem": "https://o.remove.bg/downloads/d26eb497-3b53-4e29-ba56-a7373424daf8/imagem_2023-07-21_111828468-removebg-preview.png",
       "datas_de_nascimento": "21 de maio - 20 de junho",
       "descricao": "Gêmeos é um signo versátil e comunicativo, representando curiosidade, inteligência e adaptabilidade. Pessoas de Gêmeos são sociáveis e adoram aprender e compartilhar conhecimento."
     },
     {
       "id": 4,
       "nome": "Câncer",
-      "imagem": "https://exemplo.com/cancer.jpg",
+      "imagem": "https://pngimg.com/d/cancer_zodiac_PNG15.png",
       "datas_de_nascimento": "21 de junho - 22 de julho",
       "descricao": "Câncer é um signo emocional e protetor, simbolizando intuição, sensibilidade e cuidado. Pessoas de Câncer são profundamente ligadas à família e têm um forte senso de empatia."
     },
     {
       "id": 5,
       "nome": "Leão",
-      "imagem": "https://exemplo.com/leao.jpg",
+      "imagem": "https://o.remove.bg/downloads/b9863f57-4d57-4529-9220-12fb1d10c39d/imagem_2023-07-21_113703876-removebg-preview.png",
       "datas_de_nascimento": "23 de julho - 22 de agosto",
       "descricao": "Leão é um signo majestoso e carismático, representando autoconfiança, liderança e generosidade. Pessoas de Leão têm uma presença cativante e são conhecidas por sua paixão e criatividade."
     },
     {
       "id": 6,
       "nome": "Virgem",
-      "imagem": "https://exemplo.com/virgem.jpg",
+      "imagem": "https://o.remove.bg/downloads/b35b08e4-728b-4312-ab1b-7288d121721a/imagem_2023-07-21_113838807-removebg-preview.png",
       "datas_de_nascimento": "23 de agosto - 22 de setembro",
       "descricao": "Virgem é um signo prático e analítico, simbolizando organização, eficiência e atenção aos detalhes. Pessoas de Virgem são metódicas, perfeccionistas e têm um forte senso de dever."
     },
